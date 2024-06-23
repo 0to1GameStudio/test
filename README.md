@@ -1,1 +1,1 @@
-# This is a static website (webpages of 2 files) and published in github pages.
+# This is a static website ( 2 webpages and file) and published in github pages.
